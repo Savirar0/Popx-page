@@ -4,9 +4,9 @@ PopX - React Qualifier Task
 
 This is a React application built for a technical qualifier task. The project is a pixel-perfect implementation of the provided Adobe XD design, demonstrating a standard user authentication flow.
 
-    Live Demo: #
+    Live Demo: https://popx-page.vercel.app/
 
-    Design Link: Adobe XD Design
+    Design Link: https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd
 
 
 Task Overview
@@ -62,7 +62,6 @@ Installation
     Clone the repository
     Bash
 
-git clone https://github.com/your-username/your-repo-name.git
 
 Navigate to the project directory
 Bash
